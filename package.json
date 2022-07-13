@@ -1,0 +1,15 @@
+{
+  "name": "appointmentnotification",
+  "version": "1.0.0",
+  "description": "ttp available appointment notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "twilio": "^3.77.3"
+  }
+}
